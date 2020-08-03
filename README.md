@@ -1,4 +1,4 @@
-# Analisys of coronavirus
+# Regression - Analisys of coronavirus
 
 - The data from 3.08.2020
 - The chart of coronavirus
